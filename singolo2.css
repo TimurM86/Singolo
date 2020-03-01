@@ -1,0 +1,254 @@
+body,
+#body {
+    width: 1020px;
+    margin: 0 auto; 
+    margin-left: auto;
+    position: relative;
+}
+.header {
+    height: 864px;
+    background-color: #2d303a;
+    
+    
+}
+
+.div__header {
+    margin-left: 40px;
+    width: 940px;
+    height: 196px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.Portfolio {
+    font-size: 30px;
+    line-height: 18px;
+    color: #666d89;
+    font-family: "Lato";
+    font-weight: 900;
+    text-align: left;
+    position: absolute;
+    top: 39px;
+    left: 0px;
+}
+
+.h1__text {
+    width: 940px;
+    height: 57px;
+    font-size: 18px;
+    line-height: 30px;
+    color: #767e9e;
+    font-family: "Lato";
+    font-weight: 300;
+    text-align: left;
+    position: absolute;
+    top: 102px;
+    left: 0px;
+}
+.navigation {
+    position: absolute;
+    top: 138px;
+    left: -44px;
+    font-size: 12px;
+    line-height: 20px;
+    font-family: "Lato";
+    font-weight: 400;   
+}
+li {
+    float: left;
+}
+
+
+.menu__nav_1 {
+    width: 27px;
+    height: 20px;
+    border-radius: 5px;
+    
+    border: 1px solid #666d89;
+    margin-left: 0px;
+}
+
+.menu__nav_2 {
+    width: 76px;
+    height: 20px;
+    border-radius: 5px;
+    
+    border: 1px solid #666d89;
+    margin-left: 0px;
+}
+.menu__nav_3 {
+    width: 91px;
+    height: 20px;
+    border-radius: 5px;
+    
+    border: 1px solid #666d89;
+    margin-left: 0px;
+}
+.menu__nav_4 {
+    width: 55px;
+    height: 20px;
+    border-radius: 5px;
+    
+    border: 1px solid #666d89;
+    margin-left: 0px;
+}
+
+
+a#text_color {
+    background-color: #2d303a;
+    color: #767e9e;
+    margin: 5px;
+    text-align: center;
+   
+    float: left;
+    font-size: 12px;
+    text-decoration: none; 
+    }
+
+    a#text_color:hover {
+    color: #ece1e1;
+    border-color: floralwhite;
+     }
+
+.flex__container__Portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    width: 980px;
+    height: 621px;
+    background-color: #2d303a;
+    position: absolute;
+    top: 196px;
+    left: -20px;
+}
+.img_portfolio {
+    width: 220px;
+    height: 187px;
+    margin-left: 20px;
+}
+.Header_bottom {
+    height: 6px;
+    background-color: #323746;
+}
+.About_Us {
+    height: 734px;
+    background-color:  #f2f2f2;;
+}
+.div__footer {
+    margin-left: 40px;
+    width: 940px;
+    height: 218px;
+    position: absolute;
+    top: 900px;
+    left: 0px;
+}
+.P__footer {
+    font-size: 30px;
+    line-height: 18px;
+    color: #666d89;
+    font-family: "Lato";
+    font-weight: 900;
+    text-align: left;
+    position: absolute;
+    top: 8px;
+    left: 0px;
+}
+.h2__text {
+    width: 940px;
+    height: 57px;
+    font-size: 18px;
+    line-height: 30px;
+    color: #767e9e;
+    font-family: "Lato";
+    font-weight: 300;
+    text-align: left;
+    position: absolute;
+    top: 68px;
+    left: 0px;
+}
+.flex__container__footer {
+    display: flex;
+    flex-wrap: wrap;
+    width: 940px;
+    height: 464px;
+    background-color: #f2f2f2;
+    position: absolute;
+    top: 1088px;
+    left: 40px;
+}
+.img_footer {
+    background-color:#f2f2f2;
+    width: 300px;
+    height: 307px;
+}
+.indentation_left {
+    background-color:#f2f2f2;
+    width: 19px;
+    height: 0px;
+}
+.indentation {
+    background-color:#f2f2f2;
+    width: 21px;
+    height: 0px;
+}
+.text_footer {
+    background-color:#f2f2f2;
+    width: 300px;
+    height: 103px;
+}
+.icon_footer {
+    background-color:#f2f2f2;
+    width: 300px;
+    height: 54px;
+}
+.p_name_footer {
+    font-size: 18px;
+    line-height: 2px;
+    color: #666d89;
+    font-family: "Lato";
+    font-weight: 900;
+    text-align: left;
+   
+}
+.p_text_footer {
+    
+    font-size: 12px;
+    line-height: 21px;
+    color: #767e9e;
+    font-family: "Lato";
+    font-weight: 400;
+    text-align: left;
+}
+
+#icon_img {
+    margin-left: 2px;
+}
+
+
+.icon_facebook:hover {
+    background: url(./assets/images/ico_facebook_int.svg);
+    
+}
+.icon_google:hover {
+    background: url(./assets/images/ico_google.svg);
+    
+    background-color: rgba(255, 250, 205, 0);
+    
+}
+.icon_twitter:hover {
+    background: url(./assets/images/ico_twitter_int.svg);
+    
+}
+.icon_linkedin:hover {
+    background: url(./assets/images/ico_linkedin_int.svg);
+    
+}    
+.footer_bottom {
+    width: 1020px;
+    height: 6px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 1598px;
+}
+   
+   
