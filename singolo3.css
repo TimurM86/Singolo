@@ -86,6 +86,17 @@ body,
     border-radius: 5px;
     background-color: #d6564f;
 }
+.submit {
+    font-size: 12px;
+    line-height: 32px;
+    color: #f48c8f;
+    font-family: "Lato";
+    border: #2d303a;
+    border-radius: 5px;
+    background-color: #aa302a;
+    width: 100px;
+    height: 36px;
+}
 .contact__inf {
     position: absolute;
     top: 184px;
