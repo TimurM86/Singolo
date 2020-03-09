@@ -246,7 +246,7 @@ body,
     font-weight: 300;
     text-align: left;
     position: absolute;
-    top: 102px;
+    top: 96px;
     left: 0px;
 }
 .navigation__2 {
@@ -600,7 +600,7 @@ body,
 }
 .con_inf_flex__3 {
     background-color:  #f06c64;
-    width: 18px;
+    width: 19px;
     height: 18px; 
     text-align: center; 
 }
